@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/sammwyy/PenPy/master/assets/pentest.svg" width="128px" align="left">
 <h1>PenPy</h1>
-<p>A toolkit for pentesting in python</p>
-<p>Donate to the project in <a href="https://paypal.me/sammwy">Paypal</a>, in <a href="https://ko-fi.com/sammwy">Ko-fi</a> or in <a href="https://patreon.com/sammwy">Patreon</a></p>
+<p>A toolkit for pentesting in python <br/>
+Donate to the project in <a href="https://paypal.me/sammwy">Paypal</a>, in <a href="https://ko-fi.com/sammwy">Ko-fi</a> or in <a href="https://patreon.com/sammwy">Patreon</a></p>
 
 ## 🔰 Index
 - [🔍 Gathering](#gathering)
